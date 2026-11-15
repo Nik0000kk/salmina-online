@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://julie-salmina.online/sitemap.xml
-Host: julie-salmina.online
